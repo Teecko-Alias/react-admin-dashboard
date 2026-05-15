@@ -24,6 +24,10 @@ npm install
 npm run dev
 ```
 
+## Live Demo
+
+https://react-admin-dashboard-pearl-two.vercel.app
+
 ## Author
 
 Teecko
